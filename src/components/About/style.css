@@ -1,0 +1,29 @@
+.about-me{
+    background-color: rgb(5, 5, 43);
+    display: flex;
+    flex-direction: row;
+    height: fit-content;
+    align-items: center;
+    padding-top: 80px;
+    padding-bottom: 102px;
+
+}
+
+.about-me > h1{
+    font-size: 40px;
+    color: white;
+    width: 50%;
+    text-align: right;
+    padding-left: 120px;
+    padding-top: 49px;
+    font-weight: 600;
+}
+.about-me > p{
+    font-size: 16px;
+    color: white;
+    width: 50%;
+    text-align: left;
+    padding-right:60px ;
+    padding-left: 40px;
+}
+

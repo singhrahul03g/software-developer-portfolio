@@ -1,0 +1,37 @@
+
+.top-div{
+background-color: bisque;
+}
+
+.section{
+    background-color: bisque;
+    width: 100%;
+}
+
+.black-box{
+    width: 280px;
+    height: 340px;
+    background-color: black;
+    margin-bottom: 40px;
+}
+
+
+.box-container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    row-gap: 20px;
+    column-gap: 20px;
+}
+
+.case-studies{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color:blue;
+
+
+}
+
