@@ -8,10 +8,11 @@ const About = () => {
         Hi. I’m Rahul Singh, nice to meet you. Please take a look around!
 
         </h1>
-        <p>I am passionate about building excellent softwares. My goal is
-           specialize in creating software for individuals and
-           small-businesses all the way to large enterprise corporations.
-            What would you do if you had a software expert available at your fingertips?</p>
+        <p>I am a Software Engineer who is skilled in development of web application and mobile aplication. Also I am skilled 
+in working with machine learning, deep learning & artificial intelligence. I have 4+ years of experience as a 
+software engineer. I worked for three years on mern stack developent and 1 years of experience on mobile 
+application development and AI engineer. My key skills are MERN stack, flutter & Machine learning and AI. I have 
+completed 50+ projects overall. </p>
     </div>
   )
 }

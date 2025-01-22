@@ -9,10 +9,39 @@ background-color: bisque;
 }
 
 .black-box{
-    width: 280px;
+    width: 380px;
     height: 340px;
     background-color: black;
     margin-bottom: 40px;
+    padding: 30px 30px;
+    text-align: center;
+    text-indent: 0%;
+}
+
+.mlcsh{
+    
+    color: white;
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: -24px;
+    margin-bottom: 5px;
+}
+
+.webcsh{
+    
+    color: white;
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: -24px;
+    margin-bottom: 5px;
+}
+.mobilecsh{
+    
+    color: white;
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: -24px;
+    margin-bottom: 5px;
 }
 
 
@@ -22,8 +51,8 @@ background-color: bisque;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    row-gap: 20px;
-    column-gap: 20px;
+    row-gap: 40px;
+    column-gap: 40px;
 }
 
 .case-studies{
